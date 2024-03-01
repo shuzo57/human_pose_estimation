@@ -1,0 +1,3 @@
+[submodule "GPAT"]
+	path = GPAT
+	url = git@github.com:shuzo57/GPAT.git
